@@ -36,7 +36,7 @@
 Дашборд создан в Yandex DataLens.
 
 Ссылка:
-ВСТАВИТЬ_ССЫЛКУ_DATAlens
+https://datalens.ru/kd1mseehoipy3-analiz-otzyvov-mebeli-dashbord
 
 ## Использованные технологии
 
