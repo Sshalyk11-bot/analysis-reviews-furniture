@@ -74,7 +74,7 @@
 
 Ссылка:
 
-https://datalens.ru/kd1mseehoipy3-analiz-otzyvov-mebeli-dashbord
+https://datalens.yandex/kd1mseehoipy3
 
 ## Результат проекта
 
