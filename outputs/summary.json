@@ -1,0 +1,54 @@
+{
+  "n": 2183,
+  "with_date": 1954,
+  "without_date": 229,
+  "h1": {
+    "negative_n": 450,
+    "service": 179,
+    "quality": 112,
+    "p_value": 2.7088108160416727e-07,
+    "verdict": "Подтверждена"
+  },
+  "h2": {
+    "fast_n": 72,
+    "slow_n": 35,
+    "fast_mean": 4.916666666666667,
+    "slow_mean": 2.7142857142857144,
+    "fast_positive_share": 0.9722222222222222,
+    "slow_positive_share": 0.42857142857142855,
+    "mannwhitney_p": 3.657376795809787e-14,
+    "chi2_fast_p": 0.00025582280343575223,
+    "verdict": "Подтверждена по текстовому прокси"
+  },
+  "h3": {
+    "claims_n": 111,
+    "cause_counts": {
+      "Сервис": 73,
+      "Качество мебели": 54,
+      "Доставка": 46,
+      "Соответствие описанию": 0,
+      "Цена": 30
+    },
+    "top_cause": "Сервис",
+    "verdict": "Не подтверждена"
+  },
+  "h4": {
+    "soft_n": 292,
+    "cab_n": 349,
+    "soft_words": 39.93835616438356,
+    "cab_words": 42.607449856733524,
+    "words_p": 0.1103986455282448,
+    "sentiment_intensity_p": 0.1720139644754327,
+    "verdict": "Не подтверждена"
+  },
+  "h5": {
+    "verdict": "Невозможно проверить"
+  },
+  "gpt": {
+    "requested": false,
+    "credentials_present": false,
+    "executed": false,
+    "sample_size": 0,
+    "normalizer": "snowball_stemmer_fallback"
+  }
+}

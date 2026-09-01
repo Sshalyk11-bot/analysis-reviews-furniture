@@ -1,0 +1,7 @@
+{
+  "requested": false,
+  "credentials_present": false,
+  "executed": false,
+  "sample_size": 0,
+  "normalizer": "snowball_stemmer_fallback"
+}
